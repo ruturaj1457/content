@@ -1,4 +1,4 @@
----
+---<!doctype html>
 title: "Element: attributes property"
 short-title: attributes
 slug: Web/API/Element/attributes
